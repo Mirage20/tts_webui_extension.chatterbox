@@ -17,7 +17,7 @@ classifiers = [
     "Operating System :: OS Independent",
 ]
 dependencies = [
-    "chatterbox-tts @ git+https://github.com/rsxdalv/chatterbox@1b5ae50585c8fa4d30ca6a7b304d787b4f802a42",
+    "chatterbox-tts @ git+https://github.com/Mirage20/chatterbox@faster",
 ]
 
 [project.urls]
@@ -26,4 +26,5 @@ Homepage = "https://github.com/rsxdalv/tts_webui_extension.chatterbox"
 [tool.setuptools.packages.find]
 # This will find all namespace packages automatically
 namespaces = true
+
 
